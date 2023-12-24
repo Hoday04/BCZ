@@ -120,6 +120,11 @@ footer {
     color: #fff;
 }
 
+.mapbcz {
+    width: 50%;
+    margin-top: 2%;
+    margin-left: -2%;
+}
 img {
     width: 100%;
     border: 2px solid black;
